@@ -1,0 +1,18 @@
+====== Travel Booking Platform ======
+
+1 Add Booking
+2 Delete Booking
+3 Update Booking
+4 Search Booking
+5 Display Bookings
+6 Exit
+
+Enter choice: 1
+
+Enter Booking ID: 201
+Enter Passenger Name: Manohar
+Enter Destination: Hyderabad
+Enter Seats: 3
+Enter Ticket Price: 3500
+
+Booking Added Successfully
