@@ -2,7 +2,7 @@
 
 ## Team Members
 
-Name:T.MANOHAR REDDY..
+Name:T.MANOHAR REDDY
 
 Roll Number: CDS/2025/1529
 
